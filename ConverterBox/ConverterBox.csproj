@@ -53,6 +53,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Person.cs" />
     <Compile Include="Properties\Annotations.cs" />
     <Compile Include="ToLowerConverter.cs" />
     <Compile Include="ToUpperConverter.cs" />
